@@ -1,0 +1,13 @@
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/event/UserObserver.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/business/UserBusiness.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/entities/Address.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/ValidationExceptionMapper.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/JAXRSConfiguration.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/dtos/AddressInDto.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/dtos/AddressOutDto.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/entities/User.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/dtos/UserInDto.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/email/EmailSender.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/resources/UserEndpoint.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/event/Insert.java
+/home/rhsilva/workspace-soujava/democadastrousuario/src/main/java/net/rhuanrocha/democadastrousuario/dtos/UserOutDto.java
